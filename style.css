@@ -1,7 +1,42 @@
 body{
-    background-color:rgb(188, 157, 143);
+    background-color:rgb(158, 109, 102);
 }
 
 h1{
     text-align: center;
 }
+
+div.amor{
+    background-color:rgba(107, 31, 31, 0.781)
+}
+
+img{
+    width: 800px;
+    height: 600px;
+    display: inline-block;
+    float: left;
+}
+
+.ao_lado{
+    display: inline-block;
+    float: right;
+    width: 1000px;
+}
+
+p{
+    display: inline-block;
+
+}
+
+.my{
+    width:1900px;
+    background-color: rgba(107, 31, 31, 0.377);
+    margin: 5px
+}
+
+.ao_lado{
+    margin: 10px;
+    background-color: rgba(92, 48, 48, 0.322);
+    
+}
+
